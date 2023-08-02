@@ -177,4 +177,5 @@ loader/tmp_files
 flagged/*
 ptuning-v2/*.json
 ptuning-v2/*.bin
+knowledge_base/samples/vector_store/*
 
